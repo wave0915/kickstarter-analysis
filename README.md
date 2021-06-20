@@ -3,8 +3,7 @@ Performing analysis on kickstarter data to uncover trends
 
 
 ## Outcomes based on Launch Date
-
-https://github.com/wave0915/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png?raw=true
+![date](resources/Theater_Outcomes_vs_Launch.png)
 ## Outcomes based on Goals
-[goal](resources/Outcomes_vs_Goals.png)
+![goal](resources/Outcomes_vs_Goals.png)
 
