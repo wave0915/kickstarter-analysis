@@ -4,9 +4,9 @@ Performing analysis on kickstarter data to uncover trends
 
 ## Outcomes based on Launch Date
 
-!.[date].(Theater_Outcomes_vs_Launch.png)
+!.[resources].(Theater_Outcomes_vs_Launch.png)
 
 
 ## Outcomes based on Goals
-!.[goal].(Outcomes_vs_Goals.png)
+!.[resources].(Outcomes_vs_Goals.png)
 
