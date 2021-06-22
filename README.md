@@ -8,12 +8,15 @@ But she is not sure, so with [Kickstarter](Kickstarter_Challenge.xlsx) data by a
 ### 1. Outcomes based on Launch Date
 
 #### -Analysis and Challenges
-To figure out the relationship between outcomes and launch date, make a pivot table filtering with "Parent Category" and "Years" from [Kickstarter](Kickstarter_Challenge.xlsx) data. For column labels, show only "successful", "failed" and "canceled" by outcomes.  And for row labels, show by months, but there was a challenge. Filtering by "Years" shows quarters on the rows. So, I had to remove "Quarters" and put "Date Created Conversion" instead to correct.  After that, in the pivot table, filter the "Parent Category" on "theater" specifically to show trends to match Louise's interest. And I was able to make a linear graph chart that shows the relationship between outcomes and the launch date by months as shown below.
+To figure out the relationship between outcomes and launch date, make a pivot table filtering with "Parent Category" and "Years" from [Kickstarter](Kickstarter_Challenge.xlsx) data. For column labels, show only "successful", "failed" and "canceled" by outcomes in descending order.  And for row labels, show by months, but there was a challenge. Filtering by "Years" shows quarters on the rows. So, I had to remove "Quarters" and put "Date Created Conversion" instead to correct. After that, in the pivot table, filter the "Parent Category" on "theater" specifically to show trends to match Louise's interest. Finally the pivot table is shown in the sheet named "Theater Outcomes by Launch Date" in [Theater Outcomes by Launch Date](Kickstarter_Challenge.xlsx/Theater%20Outcomes%20b%20by%20Launch%20Date)file. 
+And I was able to make a linear graph chart that shows the relationship between outcomes and the launch date by months as shown below
 
 
 ![date](resources/Theater_Outcomes_vs_Launch.png)
 
 #### -Results
+1. The month that launched the most successful Kickstarter campaings was May.  an
+
 
 
 
