@@ -20,3 +20,5 @@ But she is not sure, so with Kickstarter data by analyzing the outcomes based on
 ![goal](resources/Outcomes_vs_Goals.png)
 
 #### -Results
+
+## Conclusion
