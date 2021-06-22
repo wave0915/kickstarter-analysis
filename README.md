@@ -22,7 +22,7 @@ May had both the most successful and failed numbers of campaigns, and also the M
 
 ![pivot](resources/Theater_pivot.png)
 
-We need to consider the proportion of outcomes of "successful", "failed" and "canceled" in each month, for May is both the most failed month and successful month. Rather than using the linear graph chart, which shows the outcome numbers, a stacked bar chart, which shows the Percentage of outcomes of "successful", "failed" and "canceled" of each month, would be better to represent the relationship between outcomes and the launch date by each month. In this case, y axis would be labeled percentage(%) and x axis be each month on a stacted bar chart.
+We need to consider the proportion of outcomes of "successful", "failed" and "canceled" in each month, for May is both the most failed month and successful month. Rather than using the linear graph chart, which shows the outcome numbers, a stacked bar chart, which shows the Percentage of outcomes of "successful", "failed" and "canceled" of each month, would be better to represent the relationship between outcomes and the launch date by each month. In this case, y-axis would be labeled percentage(%) and x-axis be each month on a stacted bar chart.
 
 
 
