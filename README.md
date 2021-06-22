@@ -1,4 +1,4 @@
-# **Kickstarter-analysis**
+# **Kickstarter-Analysis**
 
 ## Overview
 Performing analysis on the Kickstarter data to uncover trends to help Louise to set up her first Kickstarter campaign.
@@ -8,6 +8,7 @@ But she is not sure, so with Kickstarter data by analyzing the outcomes based on
 ### 1. Outcomes based on Launch Date
 
 #### -Analysis and Challenges
+To figure out the relationship between outcomes and launch date, make a pivot table filtering with "Parent Category" and "Years" from kickstarter data . For column labels filter by outcomes  and show only "successful", "failed" and "canceled". Make the row labels by months, but there was challege to show months on row labels, filt
 ![date](resources/Theater_Outcomes_vs_Launch.png)
 
 #### -Results
