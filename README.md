@@ -18,7 +18,11 @@ And I was able to make a linear graph chart that shows the relationship between 
 1.	The month that launched the most successful Kickstarter campaign was May. 
 2.	The month that launched the most failed Kickstarter campaign was May.
 
-May had both the most successful and failed numbers of campaigns, and also the May had the most campaigns numbers like the pivot table. We need to consider the proportion of outcomes of "successful", "failed" and "canceled" in each month. Because May is both the most failed month and successful month. Rather than using the linear graph chart, which shows the outcome numbers, a stacked bar chart, which shows the Percentage of outcomes of "successful", "failed" and "canceled", would better represent the relationship between outcomes and the launch date by each month like the chart below. 
+May had both the most successful and failed numbers of campaigns, and also the May had the most campaigns numbers shown in the pivot table below.
+
+![pivot](resources/Theater_pivot_table_outcome.png)
+
+We need to consider the proportion of outcomes of "successful", "failed" and "canceled" in each month. Because May is both the most failed month and successful month. Rather than using the linear graph chart, which shows the outcome numbers, a stacked bar chart, which shows the Percentage of outcomes of "successful", "failed" and "canceled" of each month, would better represent the relationship between outcomes and the launch date by each month. In this case, y axis would be labeled percentage(%) and x axis be each month on a stacted bar chart.
 
 
 
