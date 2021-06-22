@@ -8,7 +8,8 @@ But she is not sure, so with Kickstarter data by analyzing the outcomes based on
 ### 1. Outcomes based on Launch Date
 
 #### -Analysis and Challenges
-To figure out the relationship between outcomes and launch date, make a pivot table filtering with "Parent Category" and "Years" from kickstarter data . For column labels, show only "successful", "failed" and "canceled" by outcomes.  And for row labels, show by months, but there was a challege. Filtering by "Years" shows quaters on the rows. So i had to remove "quaters" and put "date created conversion" instead to correct.  After that, in the pivot table, filter the "parent categroy" with "theater" specifically to show trends to match Louise's interest. And i was able to make a linear line graph that shows the relaitonshiop between outcomes and the launch date by months as shown below. 
+To figure out the relationship between outcomes and launch date, make a pivot table filtering with "Parent Category" and "Years" from Kickstarter data. For column labels, show only "successful", "failed" and "canceled" by outcomes.  And for row labels, show by months, but there was a challenge. Filtering by "Years" shows quarters on the rows. So, I had to remove "Quarters" and put "Date Created Conversion" instead to correct.  After that, in the pivot table, filter the "Parent Category" on "theater" specifically to show trends to match Louise's interest. And I was able to make a linear graph chart that shows the relationship between outcomes and the launch date by months as shown below.
+
 
 ![date](resources/Theater_Outcomes_vs_Launch.png)
 
