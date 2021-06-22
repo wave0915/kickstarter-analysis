@@ -18,7 +18,7 @@ And I was able to make a linear graph chart that shows the relationship between 
 1.	The month that launched the most successful Kickstarter campaign was May. 
 2.	The month that launched the most failed Kickstarter campaign was May.
 
-May had both the most successful and failed numbers of campaigns, and also the May had the most campaigns numbers shown in the pivot table below.
+May had both the most successful and failed numbers of campaigns, and also the May had the most campaign count in total shown in the pivot table below.
 
 ![pivot](resources/Theater_pivot_table_outcome.png)
 
