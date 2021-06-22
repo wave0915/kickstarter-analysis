@@ -29,7 +29,7 @@ Since May is both the most failed month and successful month, we need to conside
 
 ### 2. Outcomes based on Goals
 #### -Analysis and Challenges
-To figure out the relationship between the outcomes and goals, 
+To figure out the relationship between the outcomes and goals, make ranges on goals($) in row indexes for a table.  And use COUNTERIFS() function to populate "Number Successful," "Number Failed," and "Number Canceled" columns. Then use SUM() to count the "Total Projects" and calculate the percentage of successful, failed, and canceled projects by division. The table below is after using functions and calucualtions. 
 
 ![goal](resources/Outcomes_vs_Goals.png)
 
