@@ -40,7 +40,13 @@ With the table we can make a line graph chart below to show the relationship bet
 
 
 #### -Results
-The goal that has the most successful percentage rate in campaign is less than $1000.
+The goal that has the most successful percentage rate in campaign is less than $1000. 
+This general trend shows that lower goal for crowdfunding will result more successful outcome, which shows negative linear relationship. 
+This indicates that Louise has better success if she lowers her goal amount, which was initially $10,000.
+However, there is a point that successful percentage increases as the goal increases. At that point we need to consider outliers to get rid of extremes that affect the result. Surely, the graph shows limitation for Louise to set up her goal amount. 
+By using functions STDEV.P(), QUARTILE.EXC(),IQR, mean and median, we can create a statistical chart, and make a box and whisker plots. In this way, it will suggest better average successful goal target amount.    
+
+
 
 
 
