@@ -51,3 +51,5 @@ By using functions STDEV.P(), QUARTILE.EXC(),IQR, mean and median, we can create
 
 
 ## Conclusion
+We have looked up [Kickstarter](Kickstarter_Challenge.xlsx) data to help Louise analyzing theater trends with tables and charts.  As we set up launch date and goals as factors that cause the successful or failed outcomes, we can conclude which month and amount will help Louise to set up her Kickstarter campaign. According to the graph charts May is the best month to start her campaign and it is better o lower her goal amount since lower goal amount has better successful percentage.
+
